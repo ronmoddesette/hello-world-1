@@ -1,2 +1,3 @@
 # hello-world-1
-hello world sample
+hello world sample 
+This is a sample commit for myself.  Just following along with the github tutorial...
